@@ -9,13 +9,13 @@
 - 🤝 Open for collaborations in web development 🕸️
 - 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
 - 🌐 Visit my [porfolio website](https://vikrant-malla.gq/) for complete background and contact.
-- 💼 I’m looking for Internship/Full-Time Opportunities/roles (Bharatpur, Nepal).
+- 💼 I’m looking for Internship/Full-Time Opportunities/roles as UI Frontend Developer (Bharatpur, Nepal).
 
 
 <h2> 🛠 My Tech Stack</h2>
 
  - Frontend Development - HTML, CSS, Javascript(Es6)
- - CSS Framework & Preprocessor - Boostrap, Sass
+ - CSS Framework & Preprocessor - Bootstrap, Sass
  - Package Manager - NPM
  - JavaScript Framework - React JS(Hooks), Node JS(Express)
  - Module Bundler - Parcel JS, Webpack
