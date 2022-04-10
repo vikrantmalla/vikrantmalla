@@ -9,13 +9,13 @@
 - 🤝 Open for collaborations in web development 🕸️
 - 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
 - 🌐 Visit my [portfolio website](https://bikrant-malla.com.np) for complete background and contact.
-- 💼 I’m looking for Internship/Full-Time Opportunities/roles as UI Frontend Developer (Bharatpur, Nepal).
+- 💼 I’m looking for Internship/Full-Time Opportunities/roles as UI Frontend Developer.
 
 
 <h2> 🛠 My Tech Stack</h2>
 
  - Frontend Development - HTML, CSS, Javascript(Es6)
- - CSS Framework & Preprocessor - Bootstrap, TailWind CSS, Sass
+ - CSS Framework & Preprocessor - Bootstrap, TailWind CSS, Sass, Material UI
  - Package Manager - NPM
  - JavaScript Framework - React JS(Hooks), Node JS(Express), Next JS
  - Module Bundler - Parcel JS, Webpack
