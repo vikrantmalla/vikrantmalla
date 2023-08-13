@@ -14,9 +14,10 @@
 
 <h2> 🛠 My Tech Stack</h2>
 
- - Frontend Development - HTML, CSS, Javascript(Es6)
+ - Frontend Development - HTML, CSS, Javascript(Es6), Typescript
+ - Backend Development - Node JS, Python
  - CSS Framework & Preprocessor - Bootstrap, TailWind CSS, Sass, Material UI
- - Package Manager - NPM
+ - Package Manager - NPM, Yarn
  - JavaScript Framework - React JS(Hooks), Node JS(Express), Next JS
  - Module Bundler - Parcel JS, Webpack
  - Version Control - Git, Github(Github action)
