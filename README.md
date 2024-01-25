@@ -4,23 +4,22 @@
 
 
 ### More about me:
-- 🎓 I had done my undergraduate in Bachelor of Computer Application(BCA) from India.
-- 👨💻 Currently working, learning and growing my skillset in React JS, Node JS.
+- 🎓 I completed my Bachelor of Computer Application (BCA) undergraduate studies in India.
+- 👨💻 I'm working on developing my knowledge of React JS and Node JS at the moment.
 - 🤝 Open for collaborations in web development 🕸️
-- 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
+- 💻 &nbsp; I enjoy learning about new technology stacks and creating amazing projects.
 - 🌐 Visit my [portfolio website](https://bikrant-malla.com.np) for complete background and contact.
 - 💼 I’m looking for Internship/Full-Time Opportunities/roles as UI Frontend Developer.
 
 
 <h2> 🛠 My Tech Stack</h2>
 
- - Frontend Development - HTML, CSS, Javascript(Es6), Typescript
+ - Frontend Development - HTML, CSS, Javascript(Es6), Typescript, React JS, Next JS, Vue JS
  - Backend Development - Node JS, Python
- - CSS Framework & Preprocessor - Bootstrap, TailWind CSS, Sass, Material UI
- - Package Manager - NPM, Yarn
- - JavaScript Framework - React JS(Hooks), Node JS(Express), Next JS
+ - CSS Framework & Preprocessor - Bootstrap, TailWind CSS, Sass, Material UI, Shadcn
+ - Package Manager - NPM, Yarn 
  - Module Bundler - Parcel JS, Webpack
- - Version Control - Git, Github(Github action)
+ - Version Control - Git, Github, Gitlab, Bitbucket
  - Deployment & BaaS - Netlify, Vercel, Github page, Firebase
  - Design & Prototype Tools - Axure RP, Adobe XD, Figma, GIMP
  - Code Editor(IDE) - VS Code
